@@ -1,0 +1,22 @@
+---
+title: "Research"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+#### Peer-reviewed publications
+[1. Min, S. W., Humphrey, S. E., Aime, F., Petrenko, O. V., Quade, M. J., & Fu, S. (Q.) (in press). Dealing with new members: Team members’ reactions to newcomer’s attractiveness and sex. Journal of Applied Psychology.](https://psycnet.apa.org/record/2021-06756-001)
+
+[2. Fu, S. (Q.), Greco, L. M., Lennard, A. C., & Dimotakis, N. (2021). Anxiety responses to the unfolding COVID-19 crisis: Patterns of change in the experience of prolonged exposure to stressors. Journal of Applied Psychology, 106(1), 48–61.](https://psycnet.apa.org/record/2020-92195-001)
+
+#### Manuscript under review
