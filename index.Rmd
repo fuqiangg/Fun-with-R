@@ -26,8 +26,8 @@ I am expected to graduate in May 2022.
 
 My research interests are organizational helping behaviors, employee affect and emotions, motivation and stress, and research methods. 
 
-#### [My CV](fuqiangg.github.io/Fun-with-R/docs/Fu_CV.pdf)
-<a href="https://fuqiangg.github.io/Fun-with-R/docs/Fu_CV.pdf"></a>
+#### [My CV](https://fuqiangg.github.io/Fun-with-R/docs/Fu_CV.pdf)
+
 </div>
 <div class="col-sm-6">
 
