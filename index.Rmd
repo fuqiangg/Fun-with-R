@@ -25,14 +25,14 @@ Hi! I am Sherry (Qiang) Fu, a PhD candidate in Management at the Spears School o
 I am expected to graduate in May 2022.
 
 My research interests are organizational helping behaviors, employee affect and emotions, motivation and stress, and research methods. 
+#### [My Github page](https://github.com/fuqiangg)
+<a href = "https://github.com/fuqiangg">
 
 </div>
 <div class="col-sm-6">
 
 
-### [My Github page](https://github.com/fuqiangg)
 
-<a href = "https://github.com/fuqiangg">
 ![](images/IMG_6111.JPG)
 </a>
 </div>
