@@ -26,14 +26,16 @@ I am expected to graduate in May 2022.
 
 My research interests are organizational helping behaviors, employee affect and emotions, motivation and stress, and research methods. 
 
-
+#### [My CV](fuqiangg.github.io/Fun-with-R/docs/Fu_CV.pdf)
+<a href="fuqiangg.github.io/Fun-with-R/docs/Fu_CV.pdf" target="_blank">PDF.</a>
 
 </div>
 <div class="col-sm-6">
 
-### [Sherry's personal website](https://fuqiangg.github.io)
 
-<a href = "https://fuqiangg.github.io">
-![](images/logo.png)
+### [My Github page](https://github.com/fuqiangg)
+
+<a href = "https://github.com/fuqiangg">
+![](images/IMG_6111.JPG)
 </a>
 </div>
