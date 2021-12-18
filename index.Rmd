@@ -17,18 +17,23 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Fun with R**
+# **Sherry (Qiang) Fu**
 
-## A little about me
+## About me
+
+Hi! I am Sherry (Qiang) Fu, a PhD candidate in Management at the Spears School of Business in Oklahoma State University.
+I am expected to graduate in May 2022.
+
+My research interests are organizational helping behaviors, employee affect and emotions, motivation and stress, and research methods. 
 
 
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [Sherry's personal website](https://fuqiangg.github.io)
 
-<a href = "https://crumplab.github.io">
+<a href = "https://fuqiangg.github.io">
 ![](images/logo.png)
 </a>
 </div>
